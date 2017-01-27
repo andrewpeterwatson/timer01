@@ -1,0 +1,11 @@
+{
+  "name": "timer01",
+  "version": "0.1.0",
+  "description": "Timer module for cross-platform apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrewpeterwatson@gmail.com",
+  "license": "ISC"
+}
